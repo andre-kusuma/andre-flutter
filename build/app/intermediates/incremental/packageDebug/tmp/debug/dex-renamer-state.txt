@@ -1,0 +1,4 @@
+#Tue Apr 21 18:26:01 WITA 2020
+base.0=/media/pmodij/e3ee1b5e-acf1-46bb-833d-df3c993c0ee4/putumodi/This is Mine/penjualanjamtangan/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
